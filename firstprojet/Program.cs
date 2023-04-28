@@ -25,7 +25,7 @@ public class FirstApp
         string nome = "João";
 
         Console.WriteLine(nome + " " + "Resultado é: " + c);
-    }
+    } 
 }
 */
 
