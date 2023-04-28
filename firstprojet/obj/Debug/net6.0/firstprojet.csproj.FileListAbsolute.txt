@@ -1,0 +1,30 @@
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/bin/Debug/net6.0/firstprojet
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.deps.json
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.runtimeconfig.json
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.pdb
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.csproj.AssemblyReference.cache
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.AssemblyInfoInputs.cache
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.AssemblyInfo.cs
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.csproj.CoreCompileInputs.cache
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/refint/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.pdb
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.genruntimeconfig.cache
+/Users/joaojamba/Desktop/Code/C#/firstprojet/firstprojet/obj/Debug/net6.0/ref/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.csproj.AssemblyReference.cache
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.AssemblyInfoInputs.cache
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.AssemblyInfo.cs
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.csproj.CoreCompileInputs.cache
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/refint/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.pdb
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/bin/Debug/net6.0/firstprojet
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.deps.json
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.runtimeconfig.json
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.dll
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/bin/Debug/net6.0/firstprojet.pdb
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/firstprojet.genruntimeconfig.cache
+/Users/joaojamba/Desktop/Code/C# .Net /firstprojet/firstprojet/obj/Debug/net6.0/ref/firstprojet.dll

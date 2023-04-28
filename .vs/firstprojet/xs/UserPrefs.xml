@@ -1,0 +1,21 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{176780D6-5988-443C-BBFA-F6F567AE32AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstprojet/Program.cs">
+    <Files>
+      <File FileName="firstprojet/Program.cs" Line="50" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstprojet" expanded="True">
+            <Node name="firstprojet" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.firstprojet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
